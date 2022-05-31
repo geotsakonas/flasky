@@ -22,3 +22,6 @@ modules:
       violations:
         exclude:
           - Missing Module Docstring
+          - Missing Class Docstring
+          - Import Outside Toplevel
+          - Unused Variable
