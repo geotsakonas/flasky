@@ -1,0 +1,4 @@
+global:
+    violations:
+        exclude: 
+            - Missing Module Docstring
