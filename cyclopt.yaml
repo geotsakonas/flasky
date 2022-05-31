@@ -2,3 +2,23 @@ global:
     violations:
         exclude: 
             - Missing Module Docstring
+
+modules:
+    - path: "/tests"
+      languages:
+        - Python
+      violations:
+        exclude:
+          - Missing Module Docstring
+    - path: "/migration"
+      languages:
+        - Python
+      violations:
+        exclude:
+          - Missing Module Docstring
+    - path: "/app"
+      languages:
+        - Python
+      violations:
+        exclude:
+          - Missing Module Docstring
