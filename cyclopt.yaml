@@ -25,3 +25,6 @@ modules:
           - Missing Class Docstring
           - Import Outside Toplevel
           - Unused Variable
+          - Missing Class Docstring
+          - Missing Function Docstring
+          - Too Few Public Methods
