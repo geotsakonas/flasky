@@ -16,15 +16,3 @@ modules:
       violations:
         exclude:
           - Missing Module Docstring
-    - path: "/app"
-      languages:
-        - Python
-      violations:
-        exclude:
-          - Missing Module Docstring
-          - Missing Class Docstring
-          - Import Outside Toplevel
-          - Unused Variable
-          - Missing Class Docstring
-          - Missing Function Docstring
-          - Too Few Public Methods
