@@ -1,2 +1,1 @@
-class ValidationEor):
-    pass
+class Valid
